@@ -1,0 +1,25 @@
+[1mdiff --git a/img/ceo.jpeg b/img/ceo.jpeg[m
+[1mindex 5279998..296eb07 100644[m
+Binary files a/img/ceo.jpeg and b/img/ceo.jpeg differ
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 0f244e7..34dab91 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -810,7 +810,7 @@[m
+                       <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>[m
+                   </div>[m
+                   <div class="text-center p-4">[m
+[31m-                      <h5 class="mb-0">Emmanuel M. Buabeng</h5>[m
+[32m+[m[32m                      <h5 class="mb-0">Theophilus Cobbina</h5>[m
+                       <small>Founder and CEO</small>[m
+                   </div>[m
+               </div>[m
+[36m@@ -826,7 +826,7 @@[m
+                     <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>[m
+                 </div>[m
+                 <div class="text-center p-4">[m
+[31m-                    <h5 class="mb-0">Ransford Oppong</h5>[m
+[32m+[m[32m                    <h5 class="mb-0">Herbert Botwe Sackey</h5>[m
+                     <small>Product Designer</small>[m
+                 </div>[m
+             </div>[m
